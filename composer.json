@@ -1,7 +1,7 @@
 {
     "name": "xmarkclx/laravel-autodb",
     "type": "library",
-    "description": "Automatically creates database for Laravel based on models.",
+    "description": "Automatically creates database for Laravel based on a few PHP documentation comments.",
     "keywords": ["database", "automatic", "migrate", "automagic", "create", "model"],
     "homepage": "http://markcl.net",
     "license" : "MIT",
