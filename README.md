@@ -4,6 +4,7 @@ few PHP documentation comments.
 
 - Easy to use 
 - Stable
+- Fully Tested: Major Features are tested for stability
 - Framework agnostic
 - Pleasurable to work with
 - Supports Laravel / Eloquent
