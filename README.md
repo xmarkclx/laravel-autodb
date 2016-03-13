@@ -1,6 +1,6 @@
 # Introduction
 Automatically creates database based on
-a few PHP documentation comments.
+few PHP documentation comments.
 
 - Easy to use 
 - Stable
@@ -55,7 +55,11 @@ has, just look at the model file.
 - Agile Friendly: Make database improvements fast.
 
 ## Why not just make this tool create migrations?
-- If we make migrations, then wrong migrations might destroy the system
+Well, we can, and it's not hard, but I don't have time for that yet.
+
+If you want to help, you just need to make an assembler for that, just see how
+src/LaravelModelAssembler.php works and you can make a LaravelMigrationAssembler.php
+or something that assembles migrations instead of the database.
 
 ### Example
 - I create migration where name is now an integer based on a test.
